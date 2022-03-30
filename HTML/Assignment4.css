@@ -1,0 +1,9 @@
+
+ body
+  {
+  background-color: rgb(188, 226, 241);
+  }
+  
+th{ border: 2px solid ;padding :15px ;font-size:120%; background-color:rgb(124, 174, 231)}
+
+td{ border: 2px solid ;padding :15px ;font-size:120%; background-color:rgb(229, 241, 194)}
